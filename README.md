@@ -36,6 +36,12 @@ End-to-end migration of the AdventureWorks Data Warehouse from Azure SQL Server 
 | Manual fixes required | 2 |
 | Data validation | 100% row count match across all 31 tables |
 
+## Architecture
+
+![SQL Server to Snowflake Migration Architecture](images/sql-server-migration.png)
+
+![SnowConvert + Cortex Code Migration Workflow](images/snoconvert-coco-migration-sql-server.png)
+
 ---
 
 ## Step-by-Step Walkthrough
